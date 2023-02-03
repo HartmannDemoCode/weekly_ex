@@ -11,10 +11,18 @@
 
 <head>
     <title>Show all users</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     <style>
+        body {
+            /*background-color: black;*/
+            /*font-family: Arial, Helvetica, sans-serif;*/
+            font-family: 'Open Sans', sans-serif;
+        }
         #box {
             width: 600px;
-            height: 500px;
+            height: 600px;
             position: absolute;
             top:0;
             bottom: 0;
