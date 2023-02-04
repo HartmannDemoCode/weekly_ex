@@ -51,7 +51,7 @@
 </head>
 <body>
 <div id="box">
-    <h1>Users</h1>
+    <h1>List of all users</h1>
     <h3>Create a new user</h3>
     <form action="${pageContext.request.contextPath}/backend" method="post">
         <input type="text" name="fname" placeholder="First name">
